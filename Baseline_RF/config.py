@@ -1,6 +1,3 @@
-'''
-    config配置文件
-'''
 class Config():
     def __init__(self):
         self.train_datapath = '../data/train_data.tsv'
